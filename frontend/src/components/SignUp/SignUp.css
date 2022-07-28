@@ -1,0 +1,14 @@
+.btn-primary{
+    color:#fff ;
+    background-color:#813AFE !important ;
+    border-color:#813AFE !important ;
+}
+.registeration-link{
+    text-decoration: none !important;
+    color:#a59eb0 ;
+    font-weight:700 ;
+}
+.registeration-link:hover{
+    color: #813AFE;
+    cursor: pointer;
+}

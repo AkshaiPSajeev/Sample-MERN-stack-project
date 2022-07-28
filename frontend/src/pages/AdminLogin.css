@@ -1,0 +1,9 @@
+.adminlogin{
+    display: flex;
+    align-items: center;
+}
+.adduserdiv{
+    display: flex !important;
+    justify-content: space-between !important;
+    
+}

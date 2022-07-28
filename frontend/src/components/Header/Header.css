@@ -1,0 +1,14 @@
+.navigationbar{
+    background-color: #813AFE !important;
+    color: white !important;
+}
+.text-in-navbar{
+    color: white !important;
+}
+
+.test{
+    color: white !important;
+}
+#navigation-brand:hover{
+cursor: pointer !important;
+}
